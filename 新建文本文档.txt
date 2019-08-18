@@ -1,8 +1,1 @@
-JS设计模式，es6let，const, 箭头函数，
-promise源码，promiseA+规范，
-async函数，generator函数，proxy代理，
-iterotar 编辑器接口，set，map数据结构，
-webpack打包过程，项目成就，CSS里的移动端兼容，弹性盒子，
-项目调试工具，排错方法，性能优化，vue源码及原理，
-react源码及原理，查一下源码相关的文档抓一些字眼，
-然后找文章，背记，如果想拿高薪对自己高薪岗感兴趣的
+I'm dumuguojiang1987
